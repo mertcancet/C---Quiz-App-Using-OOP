@@ -1,0 +1,13 @@
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\bin\Debug\netcoreapp3.1\yapıcı metotlar uygulama.exe
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\bin\Debug\netcoreapp3.1\yapıcı metotlar uygulama.deps.json
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\bin\Debug\netcoreapp3.1\yapıcı metotlar uygulama.runtimeconfig.json
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\bin\Debug\netcoreapp3.1\yapıcı metotlar uygulama.runtimeconfig.dev.json
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\bin\Debug\netcoreapp3.1\yapıcı metotlar uygulama.dll
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\bin\Debug\netcoreapp3.1\yapıcı metotlar uygulama.pdb
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.csprojAssemblyReference.cache
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.AssemblyInfoInputs.cache
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.AssemblyInfo.cs
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.csproj.CoreCompileInputs.cache
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.dll
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.pdb
+C:\Users\MertcanCet\Desktop\WEB DEVOLOPER\C#\yapıcı metotlar uygulama\obj\Debug\netcoreapp3.1\yapıcı metotlar uygulama.genruntimeconfig.cache

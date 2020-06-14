@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "yapıcı metotlar uygulama/1.0.0": {
+        "runtime": {
+          "yapıcı metotlar uygulama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "yapıcı metotlar uygulama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
